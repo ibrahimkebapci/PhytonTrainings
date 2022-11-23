@@ -32,3 +32,6 @@ print("Soyad = "+bilgi.split(";")[0])
 
 bilgi_tekrar="Bu Bir Deneme Yazısıdır".strip()
 print("İstenen yazı = "+bilgi_tekrar.split(" ")[2])
+
+bilgi_tekrar2="deneme yazziz".strip()
+print("deneme"+ bilgi_tekrar2.split(" ")[1])
